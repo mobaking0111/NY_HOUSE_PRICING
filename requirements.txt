@@ -1,0 +1,10 @@
+statsmodels==0.14.4
+streamlit==1.39.0
+tenacity==9.0.0
+tensorboard
+tensorboard-data-server
+tensorflow
+tensorflow-intel
+tensorflow-io-gcs-filesystem
+scikit-learn
+category_encoders
